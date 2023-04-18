@@ -1,0 +1,23 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "# 12 SQL: Employee Tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexiaValen/employee-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexiaValen/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/alexiaValen/employee-tracker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
